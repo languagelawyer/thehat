@@ -1,0 +1,9 @@
+.playerstats {
+	vertical-align: top;
+	display: inline-block;
+	margin: 1%;
+}
+
+.playerstatsblock {
+	width: 100%;
+}
